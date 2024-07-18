@@ -1,6 +1,6 @@
 # MiguelGs
 Documentação do Portfólio de Miguel Gonçalves
-*[Índicie ](#Índice)
+Indice
 Visão Geral
 Estrutura do Projeto
 Descrição das Seções
