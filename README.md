@@ -39,7 +39,7 @@ components/
 Este portfólio é uma excelente forma de apresentar o trabalho e as habilidades de Miguel Gonçalves de maneira profissional e visualmente atraente. A organização modular do código facilita a manutenção e a expansão do site conforme necessário.
 _______________________________________________
 
-Espero que esta documentação ajude a entender melhor a estrutura e a funcionalidade do seu portfólio. Se precisar de mais informações ou ajustes, estou à disposição!
+Espero que esta documentação ajude a entender melhor a estrutura e a funcionalidade.
 
 
 
